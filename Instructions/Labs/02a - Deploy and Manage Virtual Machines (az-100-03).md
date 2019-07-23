@@ -71,7 +71,7 @@ The main tasks for this exercise are as follows:
 
     - Availability set: Click **Create New**, and name the new availability set **az1000301-avset0** with **2** fault domains and **5** update domains. Click **OK**.
 
-    - Image: **[smalldisk] Windows Server 2016 Datacenter**
+    - Image: **Windows Server 2016 Datacenter**
 
     - Size: **Standard DS2_v2**
 
